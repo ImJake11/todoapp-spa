@@ -26,5 +26,5 @@
   yarn dev
 
 4. **Open in browser**
-   Visit http://localhost:300
+   Visit http://localhost:3000
 
