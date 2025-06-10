@@ -10,7 +10,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ImJake11/todoapp-spa.githttps://github.com/ImJake11/todoapp-spa.git
+   git clone https://github.com/ImJake11/todoapp-spa.git
 
    cd todolist-spa
 
